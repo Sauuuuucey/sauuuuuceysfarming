@@ -1,0 +1,7 @@
+{
+    "parent": "block/crop",
+    "textures": 
+	{
+        "crop": "sauuuuuceysfarming:block/barley_crop3"
+    }
+}
