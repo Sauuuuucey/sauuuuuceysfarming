@@ -1,0 +1,7 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "item": "sauuuuuceysfarming:nut_mix" },
+	"result": "sauuuuuceysfarming:roasted_nut_mix",
+	"experience": 2.3,
+	"cookingtime": 200
+}

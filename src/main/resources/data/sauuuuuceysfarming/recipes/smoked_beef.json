@@ -1,0 +1,7 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "item": "sauuuuuceysfarming:salted_beef" },
+	"result": "sauuuuuceysfarming:smoked_beef",
+	"experience": 2.3,
+	"cookingtime": 200
+}

@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		" X ",
+		"YZW",
+		" U "
+	],
+	
+	"key":
+	{
+		"X": { "item": "minecraft:cooked_beef" },
+		"Y": { "item": "minecraft:carrot" },
+		"Z": { "item": "minecraft:baked_potato" },
+		"W": { "item": "minecraft:brown_mushroom" },
+		"U": { "item": "minecraft:bowl" }
+	},
+	
+	"result": { "item": "sauuuuuceysfarming:beef_stew" }
+}

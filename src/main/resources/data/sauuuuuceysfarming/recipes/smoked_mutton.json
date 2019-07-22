@@ -1,0 +1,7 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "item": "sauuuuuceysfarming:salted_mutton" },
+	"result": "sauuuuuceysfarming:smoked_mutton",
+	"experience": 2.3,
+	"cookingtime": 200
+}

@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"III",
+		"III",
+		"III"
+	],
+	
+	"key":
+	{
+		"I": { "item": "sauuuuuceysfarming:salt" }
+	},
+	
+	"result": { "item": "sauuuuuceysfarming:salt_block" }
+}

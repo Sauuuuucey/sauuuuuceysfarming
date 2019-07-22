@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		" X ",
+		"YYY",
+		" Z "
+	],
+	
+	"key":
+	{
+		"X": { "item": "sauuuuuceysfarming:strawberry" },
+		"Y": { "tag": "sauuuuuceysfarming:cider" },
+		"Z": { "item": "minecraft:potion" }
+	},
+	
+	"result": { "item": "sauuuuuceysfarming:strawberry_cider" }
+}

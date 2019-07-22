@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"XXX",
+		" Y "
+	],
+	
+	"key":
+	{
+		"X": { "item": "sauuuuuceysfarming:rye" },
+		"Y": { "item": "minecraft:potion" }
+	},
+	
+	"result": { "item": "sauuuuuceysfarming:rye_beer" }
+}

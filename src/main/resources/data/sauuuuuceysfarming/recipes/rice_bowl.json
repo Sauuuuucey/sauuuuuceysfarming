@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"R",
+		"B"
+	],
+	
+	"key":
+	{
+		"R": { "item": "sauuuuuceysfarming:cooked_rice" },
+		"B": { "item": "minecraft:bowl" }
+	},
+	
+	"result": { "item": "sauuuuuceysfarming:rice_bowl" }
+}

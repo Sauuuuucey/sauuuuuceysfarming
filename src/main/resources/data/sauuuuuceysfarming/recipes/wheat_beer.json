@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"XXX",
+		" Y "
+	],
+	
+	"key":
+	{
+		"X": { "item": "minecraft:wheat" },
+		"Y": { "item": "minecraft:potion" }
+	},
+	
+	"result": { "item": "sauuuuuceysfarming:wheat_beer" }
+}

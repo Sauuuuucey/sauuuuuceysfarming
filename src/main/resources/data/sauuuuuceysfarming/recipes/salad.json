@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"XYZ",
+		" W "
+	],
+	
+	"key":
+	{
+		"X": { "item": "sauuuuuceysfarming:tomato" },
+		"Y": { "item": "sauuuuuceysfarming:lettuce" },
+		"Z": { "item": "sauuuuuceysfarming:soybeans" },
+		"W": { "item": "minecraft:bowl" }
+	},
+	
+	"result": { "item": "sauuuuuceysfarming:salad" }
+}
