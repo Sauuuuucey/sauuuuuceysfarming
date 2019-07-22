@@ -1,0 +1,9 @@
+{
+    "variants": 
+	{
+        "age=0": { "model": "sauuuuuceysfarming:block/lettuce_crop0" },
+		"age=1": { "model": "sauuuuuceysfarming:block/lettuce_crop1" },
+		"age=2": { "model": "sauuuuuceysfarming:block/lettuce_crop2" },
+		"age=3": { "model": "sauuuuuceysfarming:block/lettuce_crop3" }
+    }
+}
